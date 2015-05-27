@@ -10,7 +10,12 @@ Instale este plugin e coloque o /os Widgets conforme queira.
 A instalação é  simples. Veja abaixo:
 
 ![alt tag](https://raw.githubusercontent.com/joelgarciajr84/WP-Novo-Tempo/master/imgs/widget-radio-novotempo.png)
+
 ![alt tag](https://raw.githubusercontent.com/joelgarciajr84/WP-Novo-Tempo/master/imgs/widgets-novo-tempo.png)
+
 ![alt tag](https://raw.githubusercontent.com/joelgarciajr84/WP-Novo-Tempo/master/imgs/widgets-nt-admin.png)
+
 ![alt tag](https://raw.githubusercontent.com/joelgarciajr84/WP-Novo-Tempo/master/imgs/widgets-nt.png)
+
 ![alt tag](https://raw.githubusercontent.com/joelgarciajr84/WP-Novo-Tempo/master/imgs/widget-tv-novotempo.png)
+
